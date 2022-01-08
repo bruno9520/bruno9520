@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bruno9520
+- 👀 I’m interested in making the best of me
+- 🌱 I’m currently learning Go, Jest, TypeScript
+- 💞️ I’m looking to collaborate on all the thing that make this world better
+- 📫 How to reach me bruno2095@gmail.com
